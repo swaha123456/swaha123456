@@ -80,7 +80,7 @@ Full-stack farmer-to-buyer marketplace. React + Vite frontend, Node/Express + Mo
 </td>
 <td width="50%">
 
-**📚 [Learning Management System](https://github.com/swaha123456/Learning_Management_System)**
+**📚 [Learning Management System](https://github.com/swaha123456/-Learning_Management_System)**
 _Add a one-line description of what this project actually does — that's the part recruiters read first._
 
 `Add tech stack here`
