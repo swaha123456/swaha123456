@@ -17,7 +17,7 @@
 I'm a full-stack developer and designer from Kolkata, India — I build things end to end, from the database to the pixels on screen. I care about clean UI, solid architecture, and code that actually ships.
 
 - 🎓 Final-year B.Tech, Computer Science & Engineering (2026)
-- 💼 ~1 year of hands-on experience — full-time full-stack development + backend/frontend internship
+- 💼 ~ 9+ of hands-on experience — internship frontend development  
 - 🌱 Currently exploring System Design and sharpening my Flutter skills
 - ⚡ I like projects that solve a real problem, not just tick a syllabus box
 
