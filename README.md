@@ -80,10 +80,12 @@ Full-stack farmer-to-buyer marketplace. React + Vite frontend, Node/Express + Mo
 </td>
 <td width="50%">
 
-**📚 [Learning Management System](https://github.com/swaha123456/-Learning_Management_System)**
-_Add a one-line description of what this project actually does — that's the part recruiters read first._
+**🤖 [RAG-Based Q&A System](https://github.com/swaha123456/RAG-Based-Q-A-System)**
+_A local RAG app that lets you upload PDF/DOCX documents and ask natural-language questions, with answers grounded in the actual document content and source citations — not the model's general knowledge._
 
-`React` `Node.js` `Express` `MongoDB` `JWT`
+`FastAPI` `LangChain` `ChromaDB` `React` `OpenAI/Gemini`
+
+
 
 </td>
 </tr>
