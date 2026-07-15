@@ -72,7 +72,7 @@ I'm a full-stack developer and designer from Kolkata, India — I build things e
 <tr>
 <td width="50%">
 
-**🌾 [AgriVista](https://github.com/swaha123456/Agrivista)**
+**🌾 [AgriVista](https://github.com/swaha123456/Agrivista-)**
 Full-stack farmer-to-buyer marketplace. React + Vite frontend, Node/Express + MongoDB backend. JWT auth with email OTP 2FA, bcrypt hashing, role-based access, and Razorpay payment integration.
 
 `React` `Node.js` `MongoDB` `JWT` `Razorpay`
